@@ -1,0 +1,152 @@
+/* body{
+    overflow-x:hidden;
+} */
+
+.logo {
+    width: 150px;
+}
+
+
+.navcolor {
+    background: #1A187A;
+}
+
+
+.navmenus {
+    color: white;
+}
+
+.navicon {
+
+    width: 32px;
+    height: 32px;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+}
+
+
+.toggle-icon {
+    background-color: white;
+}
+
+.slider-img {
+    width: 300px;
+
+}
+
+.slider-area {
+    height: 550px;
+    background-image: url(./Images/banner-1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* Banner CSS */
+.headphone {
+    width: 300px;
+}
+
+.headphone-row {
+    background: #ADC2D7;
+}
+
+.mac {
+    width: 80px;
+}
+
+.macbook-row{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    
+}
+
+.macbook-whole{
+    background: #EDEDED;
+}
+
+.cat {
+    display: flex;
+    /* width: 160px;
+    height: 128px; */
+    /* min-width: 135px; */
+    padding: 24px 52px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 4px;
+
+    border-radius: 15px;
+    background: #EDEDED;
+}
+
+
+.category {
+    background: #FAFAFA;
+}
+
+.cards {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    border-radius: 9px;
+    background: #F6F6F6;
+
+    padding-bottom: 20px;
+    
+}
+
+/* 11 11 Sale CSS */
+
+.sale{
+    background-color: #958AD4;
+}
+
+.number{
+    color: purple;
+    font-size:50px;
+    font-weight: bold;
+}
+
+.text{
+    font-size: 50px;
+    color:white;
+    font-weight: bold;
+}
+
+.middle{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.sale-items{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Footer CSS */
+.menus{
+    list-style: none;
+    color:white;
+    
+}
+
+.footer-row{
+    display: flex;
+    align-items: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+
+.whole-footer{
+    background: #0E071B;
+}
